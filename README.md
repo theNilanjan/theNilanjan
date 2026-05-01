@@ -7,10 +7,8 @@
 
 * 🎓 Student at **SRM Institute of Science & Technology**
 * 💻 Backend Developer (MongoDB, SQL, Python, C/C++)
-* 🤖 Built **AI Face Attendance System**
-* ⚙️ Working on **Advanced CPU Scheduling Simulator**
 * ☁️ AWS Certified (Cloud + AI Practitioner)
-* 🚀 Passionate about **DSA & System Design**
+* 🚀 Passionate about **System Design*
 
 ---
 
