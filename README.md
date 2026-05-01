@@ -3,12 +3,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theNilanjan&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
 ## 🔥 About Me
 
 * 🎓 Student at **SRM Institute of Science & Technology**
@@ -32,6 +26,7 @@
 
 * 🥇 AWS Certified Cloud Practitioner
 * 🥇 AWS Certified AI Practitioner
+* 🥇 MailBrain-Agent
 
 ---
 
@@ -40,14 +35,10 @@
 * 🎯 **AI Face Attendance System**
   → Face recognition-based smart attendance
 
-* ⚙️ **Advanced CPU Scheduling Simulator**
-  → MLFQ + analytics + visualization
 
-* 🔍 **Log Analyzer Tool (Upcoming)**
+
 
 ---
-
-<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
