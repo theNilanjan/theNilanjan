@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilanjan Ghosh</h1>
-<h3 align="center">🚀 Backend Developer | DSA Enthusiast | Cloud & AI Learner</h3>
+<h3 align="center">🚀 Backend Developer | Hackathon Enthusiast | Cloud & AI Learner</h3>
 
 ---
 
